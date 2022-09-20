@@ -2,6 +2,7 @@
 
 ### Descripción
 * A través de mis Proyectos Open Source publicados en esta plataforma me contactó un desarrollador para realizar la securización de un módulo de un proyecto utilizando Spring Security y algún Módulo para la autenticación y demás (Auth0, JWT, etc). Se termino optando el módulo JWT ya que a comparación con Auth0 y otros tiene limitaciones en cuanto a su uso gratuito. No es recomendable para escalabilidad con la versión no paga.
+* El Desarrollo se llevo a cabo año actual 2022 (principios de marzo hasta fines abril).
 * Se me asignó desarrollar las entidades que funcionarían como autenticación, usuarios del sistema (roles, características, etc), nuevos usuarios, manejo de passwords y campos cifrados, signin, login, refresh token, uso de tokens, entre otros. Todas estas funcionalidades desarrolladas las tuve que documentar en diversos .readme para cada branch implementado respecto a cada funcionalidad enumerada.
 * El desarrollo fue a medida ya que se me pidió que la documentación de la Api (no .readme) para este módulo en concreto se realice con SpringFox y Swagger (las nuevas docs se realizan con Open-Api v3.0, por ende supuse que el objetivo fue mantener el proyecto y de a poco ir actualizándolo. No tuve información concreta al respecto ya que este módulo iba a servir de base para la implementación de la securización completa de la aplicación ).
 * Al igual que el desarrollo freelance de la Api Rest de Productos, por temas de `DERECHO INTELECTUAL, PAGO TOTAL DEL SERVICIO DESARROLLADO Y ÉTICOS NO SE ANEXA CÓDIGO FUENTE DEL DESARROLLO`.
